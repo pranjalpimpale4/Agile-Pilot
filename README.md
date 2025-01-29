@@ -1,4 +1,4 @@
-# AgileManager
+# AgilePilot
 
 This project is the back-end component of a Restful web application for Agile Manager. It is built using **Spring**, **Spring Boot**, and **Hibernate**, with **MySQL** as the persistence layer.  
 
